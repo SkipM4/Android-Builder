@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "RedmiK60DebugKernel",
+      "name": "RedmiK60",
       "repo": "https://github.com/SkipM4/Xiaomi_Kernel_OpenSource",
       "branch": "mondrian-s-oss",
       "device": "mondrian",
