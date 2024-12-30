@@ -5,7 +5,7 @@
       "repo": "https://github.com/SkipM4/Xiaomi_Kernel_OpenSource",
       "branch": "mondrian-s-oss",
       "device": "mondrian",
-      "defconfig": "mondrian_GKI.config"
+      "defconfig": "vendor/mondrian_GKI.config"
     },
     "toolchains": [
       {
@@ -26,7 +26,7 @@
       }
     },
     "AnyKernel3": {
-      "use": false,
+      "use": true,
       "release": true
     },
     "enableKernelSU": false,
