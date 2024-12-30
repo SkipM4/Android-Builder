@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "RedmiK60",
-      "repo": "https://github.com/SkipM4/Xiaomi_Kernel_OpenSource",
-      "branch": "mondrian-s-oss",
+      "repo": "https://github.com/SkipM4/android_kernel_xiaomi_sm8475",
+      "branch": "main",
       "device": "mondrian",
       "defconfig": "vendor/mondrian_defconfig"
     },
